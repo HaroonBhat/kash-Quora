@@ -1,0 +1,41 @@
+
+.bg{
+    background: url(../img/bg3.jpg);
+}
+.navbar{
+    padding: 0;
+}
+.contact_zero{
+    
+    max-width: 80%;
+    padding: 34px;
+}
+.contact_one , .contact_two {
+    text-align: center;
+}
+input , textarea   {
+   
+    width: 90%;
+    display: block;
+    margin: 15px auto;
+    padding: 7px;
+    font-size: 15px;
+   
+}
+.contact_three{
+   text-align: center;
+    
+ 
+}
+label{
+   margin-right: 80%;
+   color: rgb(239, 11, 11);
+   font-size: large;
+   font-weight: bolder;
+}
+.end{
+    color: rgba(113, 111, 199, 0.715);
+    background-color: cyan;
+    padding: 8px 12px;
+    text-align: center;
+}

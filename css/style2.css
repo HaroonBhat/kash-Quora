@@ -1,0 +1,22 @@
+
+.footer-one{
+    text-align: center;
+}
+.footer-nav{
+    display: flex;
+    padding-top: 5%;
+    justify-content: center;
+    width: 100%;
+    
+}
+.footer-nav a{
+    text-decoration: none;
+    margin: 0 0.5rem;
+    line-height: 1.65;
+    font-family: meta bold,sans-serif;
+    text-transform: uppercase;
+    color: beige;
+}
+.footer-nav a:hover{
+    color: rgba(113, 113, 110, 0.674);
+}
